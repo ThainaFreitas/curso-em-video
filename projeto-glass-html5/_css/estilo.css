@@ -225,3 +225,16 @@ footer#rodape {
 footer#rodape p {
    text-align: center;
 }
+div#super-heroi {
+   display: block;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    width: 440px;
+}
+div#super-legal{
+   display: block;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    width: 440px;
