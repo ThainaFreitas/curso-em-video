@@ -14,10 +14,24 @@ audio#musica {
     width: 300px;
 }
 
-video#filme{
+video#filme {
     display: block;
     position: relative;
     left: 90px;
     top: 85px;
     width: 440px;
 }
+
+video#super-heroi {
+    display: block;
+    position: relative;
+    width: 500px;
+    
+}
+
+video#super-legal {
+    display: block;
+    position: relative;
+    width: 350px;
+}
+
